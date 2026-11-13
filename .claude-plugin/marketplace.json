@@ -1,0 +1,17 @@
+{
+  "name": "customer-intelligence-toolkit",
+  "description": "Evidence-aware customer research and monetization workflows for Claude Code.",
+  "owner": {
+    "name": "Satvik Jain"
+  },
+  "plugins": [
+    {
+      "name": "customer-intelligence-toolkit",
+      "source": "./",
+      "description": "Customer research, synthetic simulation, product evaluation, positioning, pricing, and go-to-market skills.",
+      "author": {
+        "name": "Satvik Jain"
+      }
+    }
+  ]
+}

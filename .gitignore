@@ -1,0 +1,6 @@
+# Private local research used only as development source material.
+research/
+
+# Local Claude Code state and generated evaluation output.
+.claude/
+evals/results/

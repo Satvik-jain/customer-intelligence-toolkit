@@ -1,0 +1,24 @@
+{
+  "name": "customer-intelligence-toolkit",
+  "displayName": "Customer Intelligence & Monetization Toolkit",
+  "version": "0.1.0",
+  "description": "Evidence-aware workflows for customer research, product evaluation, positioning, pricing, and go-to-market planning.",
+  "author": {
+    "name": "Satvik Jain"
+  },
+  "homepage": "https://github.com/Satvik-jain/customer-intelligence-toolkit",
+  "repository": "https://github.com/Satvik-jain/customer-intelligence-toolkit",
+  "icon": "./.claude-plugin/icon.png",
+  "documentationUrl": "https://github.com/Satvik-jain/customer-intelligence-toolkit#readme",
+  "supportUrl": "https://github.com/Satvik-jain/customer-intelligence-toolkit/issues",
+  "privacyPolicyUrl": "https://github.com/Satvik-jain/customer-intelligence-toolkit/blob/main/PRIVACY.md",
+  "keywords": [
+    "customer-research",
+    "market-research",
+    "customer-segmentation",
+    "product-management",
+    "pricing",
+    "go-to-market",
+    "synthetic-personas"
+  ]
+}
